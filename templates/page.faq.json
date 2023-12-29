@@ -1,11 +1,24 @@
 {
-    "sections": {
-        "main": {
-            "type": "faq",
-            "settings": {}
+  "sections": {
+    "main": {
+      "type": "faq",
+      "blocks": {
+        "6d018f74-6b5f-4d75-89ff-3096d7cd29d1": {
+          "type": "questions",
+          "settings": {
+            "title": "test",
+            "body": "<p>test<\/p>"
+          }
         }
-    },
-    "order": [
-        "main"
-    ]
+      },
+      "block_order": [
+        "6d018f74-6b5f-4d75-89ff-3096d7cd29d1"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
 }
